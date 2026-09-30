@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/996/problem/A" target="_blank" rel="noopener noreferrer">996A — Hit the Lottery</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 996A](https://codeforces.com/contest/996/problem/A) |
+
+## Topics
+`dp` `greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Hit the Lottery</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Allen has a LOT of money. He has $$$n$$$ dollars in the bank. For security reasons, he wants to withdraw it in cash (we will not disclose the reasons here). The denominations for dollar bills are $$$1$$$, $$$5$$$, $$$10$$$, $$$20$$$, $$$100$$$. What is the minimum number of bills Allen could receive after withdrawing his entire balance?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first and only line of input contains a single integer $$$n$$$ ($$$1 \le n \le 10^9$$$).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output the minimum number of bills that Allen could receive.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00611028614833879" id="id007498578702791785" class="input-output-copier">Copy</div></div><pre id="id00611028614833879">125<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0011223205167640182" id="id006543898807031693" class="input-output-copier">Copy</div></div><pre id="id0011223205167640182">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0010561221039742252" id="id006381432893015618" class="input-output-copier">Copy</div></div><pre id="id0010561221039742252">43<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003415643658656472" id="id006053559940826763" class="input-output-copier">Copy</div></div><pre id="id003415643658656472">5<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009574191139139383" id="id0045550096906949733" class="input-output-copier">Copy</div></div><pre id="id009574191139139383">1000000000<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id001010790599594068" id="id008380479657927122" class="input-output-copier">Copy</div></div><pre id="id001010790599594068">10000000<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first sample case, Allen can withdraw this with a $$$100$$$ dollar bill, a $$$20$$$ dollar bill, and a $$$5$$$ dollar bill. There is no way for Allen to receive $$$125$$$ dollars in one or two bills.</p><p>In the second sample case, Allen can withdraw two $$$20$$$ dollar bills and three $$$1$$$ dollar bills.</p><p>In the third sample case, Allen can withdraw $$$100000000$$$ (ten million!) $$$100$$$ dollar bills.</p></div>
