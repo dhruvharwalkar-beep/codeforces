@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 15 |
+| 75 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (9)
+- [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
@@ -21,7 +21,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
 - [implementation](#implementation) (51)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (6)
@@ -49,6 +49,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 
 ### constructive algorithms
 
@@ -184,6 +185,7 @@
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 
 ### number theory
 
