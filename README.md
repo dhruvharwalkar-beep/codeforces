@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 15 |
+| 77 | 15 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (52)
+- [implementation](#implementation) (53)
 - [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -159,6 +159,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.java) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1971/B%20-%20Different%20String/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
