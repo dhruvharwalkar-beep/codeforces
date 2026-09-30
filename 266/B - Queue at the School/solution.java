@@ -1,0 +1,27 @@
+import java.util.*;
+ 
+public class main42 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+ 
+        int n = sc.nextInt();
+        int t = sc.nextInt();
+ 
+        char[] s = sc.next().toCharArray();
+ 
+        while (t-- > 0) {
+            for (int i = 0; i < n - 1; i++) {
+ 
+                if (s[i] == 'B' && s[i + 1] == 'G') {
+                    s[i] = 'G';
+                    s[i + 1] = 'B';
+ 
+                    i++;
+                }
+            }
+        }
+ 
+        System.out.println(s);
+        sc.close();
+    }
+}
