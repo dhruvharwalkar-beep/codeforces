@@ -6,23 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 31 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (10)
-- [math](#math) (4)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (23)
+- [math](#math) (5)
 - [sortings](#sortings) (3)
-- [strings](#strings) (4)
-- [two pointers](#two-pointers) (1)
+- [strings](#strings) (11)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -38,6 +38,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 
@@ -64,8 +65,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.java) |
@@ -74,14 +77,27 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/136/A%20-%20Presents/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/705/A%20-%20Hulk/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.java) |
+| 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1971/B%20-%20Different%20String/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
@@ -93,6 +109,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 
 ### sortings
 
@@ -106,8 +123,15 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1971/B%20-%20Different%20String/solution.java) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
@@ -115,6 +139,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2254/B%20-%20Evanescent/solution.java) |
 
 ---
