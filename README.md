@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 15 |
+| 78 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (53)
+- [implementation](#implementation) (54)
 - [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
@@ -48,6 +48,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 
@@ -158,6 +159,7 @@
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1742/A%20-%20Sum/solution.java) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.java) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.java) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/1971/B%20-%20Different%20String/solution.java) |
