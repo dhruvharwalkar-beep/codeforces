@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 15 |
+| 81 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
@@ -35,6 +36,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.java) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [Java 21](https://github.com/dhruvharwalkar-beep/codeforces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.java) |
 
 ### brute force
 
